@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T10:26:15.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jxxmWP-APuh_tCy6CYpr" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T10:26:41.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Rc7__8_PD0-aWrP3NfJp" version="16.5.3" type="github">
   <diagram id="BWb1KWBUvwRuPx-WHsDX" name="Page-1">
     <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="d7l75vfM0CyaOL6KbHwW-7" value="soc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="776" y="390" width="309" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="d7l75vfM0CyaOL6KbHwW-9" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d7l75vfM0CyaOL6KbHwW-9" value="nova controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="10" width="310" height="125" as="geometry" />
         </mxCell>
         <mxCell id="d7l75vfM0CyaOL6KbHwW-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d7l75vfM0CyaOL6KbHwW-4" target="d7l75vfM0CyaOL6KbHwW-9">
